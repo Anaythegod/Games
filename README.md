@@ -43,7 +43,21 @@
             banner.style.transition = 'opacity 1s';
             banner.style.opacity = '0';
             setTimeout(() => banner.remove(), 1000); // Remove the banner after fade-out
-        }, 5000);
+        }, 5000); 
+        <html>
+<head>
+    <title>Games</title>
+</head>
+<body>
+    <iframe 
+        src="https://www.gamesgames.com" 
+        width="100%" 
+        height="600" 
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
+</body>
+</html>
     </script>
 </body>
 </html>
