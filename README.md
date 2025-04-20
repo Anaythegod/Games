@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> 
+    # Games
+
+Check out this embedded site: [GamesGames.com](https://www.gamesgames.com)
+
+If you want to embed it in your own HTML files, you can use the following code:
+
+```html
+<iframe 
+    src="https://www.gamesgames.com" 
+    width="100%" 
+    height="600" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anay's Website</title>
@@ -49,13 +63,7 @@
     <title>Games</title>
 </head>
 <body>
-    <iframe 
-        src="https://www.gamesgames.com" 
-        width="100%" 
-        height="600" 
-        frameborder="0" 
-        allowfullscreen>
-    </iframe>
+    
 </body>
 </html>
     </script>
